@@ -1,2 +1,3 @@
-here we used django as backend
+backend - django 
 frontend- tailwind, html, js
+firebase - database
